@@ -1,0 +1,8 @@
+C:\Users\zhori\Documents\ООП\ПРАКТИКА\WebS-Practice2\TorgObject.GeneralLogic\bin\Debug\netstandard2.1\TorgObject.GeneralLogic.deps.json
+C:\Users\zhori\Documents\ООП\ПРАКТИКА\WebS-Practice2\TorgObject.GeneralLogic\bin\Debug\netstandard2.1\TorgObject.GeneralLogic.dll
+C:\Users\zhori\Documents\ООП\ПРАКТИКА\WebS-Practice2\TorgObject.GeneralLogic\bin\Debug\netstandard2.1\TorgObject.GeneralLogic.pdb
+C:\Users\zhori\Documents\ООП\ПРАКТИКА\WebS-Practice2\TorgObject.GeneralLogic\obj\Debug\netstandard2.1\TorgObject.GeneralLogic.AssemblyInfoInputs.cache
+C:\Users\zhori\Documents\ООП\ПРАКТИКА\WebS-Practice2\TorgObject.GeneralLogic\obj\Debug\netstandard2.1\TorgObject.GeneralLogic.AssemblyInfo.cs
+C:\Users\zhori\Documents\ООП\ПРАКТИКА\WebS-Practice2\TorgObject.GeneralLogic\obj\Debug\netstandard2.1\TorgObject.GeneralLogic.dll
+C:\Users\zhori\Documents\ООП\ПРАКТИКА\WebS-Practice2\TorgObject.GeneralLogic\obj\Debug\netstandard2.1\TorgObject.GeneralLogic.pdb
+C:\Users\zhori\Documents\ООП\ПРАКТИКА\WebS-Practice2\TorgObject.GeneralLogic\obj\Debug\netstandard2.1\TorgObject.GeneralLogic.csprojAssemblyReference.cache
